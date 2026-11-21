@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="924" height="385" viewBox="0 0 48 20" shape-rendering="crispEdges" overflow="hidden" role="img" aria-labelledby="title desc">
+  <title id="title">WELCOME</title>
+  <desc id="desc">Серая пиксельная надпись WELCOME и семь падающих голубых снежинок.</desc>
+  <defs>
+    <g id="snowflake" fill="#29adff">
+      <rect x="1" y="0" width="1" height="1" />
+      <rect x="0" y="1" width="1" height="1" />
+      <rect x="2" y="1" width="1" height="1" />
+      <rect x="1" y="2" width="1" height="1" />
+    </g>
+  </defs>
+  <rect width="48" height="20" fill="#fff" />
+  <g id="welcome" fill="#c2c3c7">
+    <rect x="2" y="11" width="1" height="1" />
+    <rect x="10" y="11" width="1" height="1" />
+    <rect x="12" y="11" width="5" height="1" />
+    <rect x="24" y="11" width="3" height="1" />
+    <rect x="29" y="11" width="3" height="1" />
+    <rect x="34" y="11" width="1" height="1" />
+    <rect x="38" y="11" width="1" height="1" />
+    <rect x="40" y="11" width="5" height="1" />
+    <rect x="2" y="12" width="1" height="1" />
+    <rect x="6" y="12" width="1" height="1" />
+    <rect x="10" y="12" width="1" height="1" />
+    <rect x="12" y="12" width="1" height="1" />
+    <rect x="18" y="12" width="1" height="1" />
+    <rect x="23" y="12" width="1" height="1" />
+    <rect x="28" y="12" width="1" height="1" />
+    <rect x="32" y="12" width="1" height="1" />
+    <rect x="34" y="12" width="2" height="1" />
+    <rect x="37" y="12" width="2" height="1" />
+    <rect x="40" y="12" width="1" height="1" />
+    <rect x="3" y="13" width="1" height="1" />
+    <rect x="6" y="13" width="1" height="1" />
+    <rect x="9" y="13" width="1" height="1" />
+    <rect x="12" y="13" width="1" height="1" />
+    <rect x="18" y="13" width="1" height="1" />
+    <rect x="23" y="13" width="1" height="1" />
+    <rect x="28" y="13" width="1" height="1" />
+    <rect x="32" y="13" width="1" height="1" />
+    <rect x="34" y="13" width="5" height="1" />
+    <rect x="40" y="13" width="1" height="1" />
+    <rect x="3" y="14" width="1" height="1" />
+    <rect x="6" y="14" width="1" height="1" />
+    <rect x="9" y="14" width="1" height="1" />
+    <rect x="12" y="14" width="5" height="1" />
+    <rect x="18" y="14" width="1" height="1" />
+    <rect x="23" y="14" width="1" height="1" />
+    <rect x="28" y="14" width="1" height="1" />
+    <rect x="32" y="14" width="1" height="1" />
+    <rect x="34" y="14" width="1" height="1" />
+    <rect x="36" y="14" width="1" height="1" />
+    <rect x="38" y="14" width="1" height="1" />
+    <rect x="40" y="14" width="5" height="1" />
+    <rect x="4" y="15" width="1" height="1" />
+    <rect x="6" y="15" width="1" height="1" />
+    <rect x="8" y="15" width="1" height="1" />
+    <rect x="12" y="15" width="1" height="1" />
+    <rect x="18" y="15" width="1" height="1" />
+    <rect x="23" y="15" width="1" height="1" />
+    <rect x="28" y="15" width="1" height="1" />
+    <rect x="32" y="15" width="1" height="1" />
+    <rect x="34" y="15" width="1" height="1" />
+    <rect x="38" y="15" width="1" height="1" />
+    <rect x="40" y="15" width="1" height="1" />
+    <rect x="4" y="16" width="1" height="1" />
+    <rect x="6" y="16" width="1" height="1" />
+    <rect x="8" y="16" width="1" height="1" />
+    <rect x="12" y="16" width="1" height="1" />
+    <rect x="18" y="16" width="1" height="1" />
+    <rect x="23" y="16" width="1" height="1" />
+    <rect x="28" y="16" width="1" height="1" />
+    <rect x="32" y="16" width="1" height="1" />
+    <rect x="34" y="16" width="1" height="1" />
+    <rect x="38" y="16" width="1" height="1" />
+    <rect x="40" y="16" width="1" height="1" />
+    <rect x="44" y="16" width="1" height="1" />
+    <rect x="5" y="17" width="3" height="1" />
+    <rect x="12" y="17" width="5" height="1" />
+    <rect x="18" y="17" width="4" height="1" />
+    <rect x="24" y="17" width="3" height="1" />
+    <rect x="29" y="17" width="3" height="1" />
+    <rect x="34" y="17" width="1" height="1" />
+    <rect x="38" y="17" width="1" height="1" />
+    <rect x="40" y="17" width="5" height="1" />
+  </g>
+  <g id="santa-hat" transform="translate(-22 0)">
+    <rect x="38" y="4" width="3" height="1" fill="#ea3246" />
+    <rect x="37" y="5" width="1" height="1" fill="#ea3246" />
+    <rect x="38" y="5" width="1" height="1" fill="#ff6470" />
+    <rect x="39" y="5" width="2" height="1" fill="#b91f37" />
+    <rect x="41" y="5" width="1" height="1" fill="#ea3246" />
+    <rect x="36" y="6" width="1" height="1" fill="#ea3246" />
+    <rect x="37" y="6" width="1" height="1" fill="#ff6470" />
+    <rect x="38" y="6" width="1" height="1" fill="#ea3246" />
+    <rect x="39" y="6" width="2" height="1" fill="#b91f37" />
+    <rect x="41" y="6" width="1" height="1" fill="#ea3246" />
+    <rect x="35" y="7" width="1" height="1" fill="#ea3246" />
+    <rect x="36" y="7" width="1" height="1" fill="#ff6470" />
+    <rect x="37" y="7" width="1" height="1" fill="#ea3246" />
+    <rect x="38" y="7" width="2" height="1" fill="#b91f37" />
+    <rect x="41" y="7" width="1" height="1" fill="#d1d7e0" />
+    <rect x="34" y="8" width="1" height="1" fill="#ea3246" />
+    <rect x="35" y="8" width="1" height="1" fill="#ff6470" />
+    <rect x="36" y="8" width="2" height="1" fill="#ea3246" />
+    <rect x="38" y="8" width="1" height="1" fill="#b91f37" />
+    <rect x="40" y="8" width="1" height="1" fill="#d1d7e0" />
+    <rect x="41" y="8" width="1" height="1" fill="#f4f6f9" />
+    <rect x="42" y="8" width="1" height="1" fill="#d1d7e0" />
+    <rect x="34" y="9" width="1" height="1" fill="#d1d7e0" />
+    <rect x="35" y="9" width="4" height="1" fill="#f4f6f9" />
+    <rect x="39" y="9" width="1" height="1" fill="#d1d7e0" />
+    <rect x="41" y="9" width="1" height="1" fill="#d1d7e0" />
+    <rect x="33" y="10" width="1" height="1" fill="#d1d7e0" />
+    <rect x="34" y="10" width="6" height="1" fill="#f4f6f9" />
+    <rect x="40" y="10" width="1" height="1" fill="#d1d7e0" />
+  </g>
+  <g id="snow">
+    <use href="#snowflake" transform="translate(3 2)">
+      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="5.75s" repeatCount="indefinite" values="3 2;3 3;3 4;3 5;4 6;4 7;4 8;3 9;3 10;3 11;3 12;3 13;3 14;2 15;2 16;2 17;2 18;3 19;3 -3;3 -2;3 -1;3 0;3 1;3 2;3 3;3 4;2 5;2 6;2 7;2 8;2 9;3 10;3 11;3 12;3 13;3 14;3 15;4 16;4 17;4 18;4 19;3 -3;3 -2;3 -1;3 0;3 1" />
+    </use>
+    <use href="#snowflake" transform="translate(9 5)">
+      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="5.75s" repeatCount="indefinite" values="9 5;9 6;9 7;9 8;9 9;9 10;9 11;9 12;8 13;8 14;8 15;8 16;8 17;9 18;9 19;9 -3;9 -2;9 -1;9 0;9 1;10 2;10 3;10 4;10 5;9 6;9 7;9 8;9 9;9 10;9 11;10 12;10 13;10 14;10 15;9 16;9 17;9 18;9 19;9 -3;9 -2;8 -1;8 0;8 1;9 2;9 3;9 4" />
+    </use>
+    <use href="#snowflake" transform="translate(17 0)">
+      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="5.75s" repeatCount="indefinite" values="17 0;17 1;17 2;17 3;17 4;18 5;18 6;18 7;18 8;18 9;17 10;17 11;17 12;17 13;17 14;16 15;16 16;16 17;16 18;17 19;17 -3;17 -2;17 -1;17 0;18 1;18 2;18 3;18 4;17 5;17 6;17 7;17 8;17 9;17 10;17 11;16 12;16 13;16 14;16 15;16 16;17 17;17 18;17 19;17 -3;17 -2;17 -1" />
+    </use>
+    <use href="#snowflake" transform="translate(22 9)">
+      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="5.75s" repeatCount="indefinite" values="22 9;22 10;22 11;22 12;22 13;22 14;21 15;21 16;21 17;21 18;21 19;22 -3;22 -2;22 -1;22 0;22 1;23 2;23 3;23 4;23 5;22 6;22 7;22 8;22 9;22 10;22 11;22 12;22 13;22 14;21 15;21 16;21 17;21 18;21 19;22 -3;22 -2;22 -1;22 0;23 1;23 2;23 3;23 4;23 5;22 6;22 7;22 8" />
+    </use>
+    <use href="#snowflake" transform="translate(32 5)">
+      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="5.75s" repeatCount="indefinite" values="32 5;32 6;32 7;32 8;31 9;31 10;31 11;31 12;32 13;32 14;32 15;32 16;33 17;33 18;33 19;32 -3;32 -2;32 -1;32 0;32 1;32 2;32 3;33 4;33 5;33 6;33 7;32 8;32 9;32 10;32 11;32 12;32 13;32 14;32 15;31 16;31 17;31 18;31 19;31 -3;31 -2;32 -1;32 0;32 1;32 2;32 3;32 4" />
+    </use>
+    <use href="#snowflake" transform="translate(42 2)">
+      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="5.75s" repeatCount="indefinite" values="42 2;42 3;42 4;42 5;42 6;42 7;42 8;43 9;43 10;43 11;43 12;43 13;42 14;42 15;42 16;42 17;41 18;41 19;41 -3;41 -2;41 -1;42 0;42 1;42 2;42 3;42 4;42 5;41 6;41 7;41 8;41 9;41 10;42 11;42 12;42 13;42 14;42 15;42 16;42 17;43 18;43 19;43 -3;43 -2;43 -1;42 0;42 1" />
+    </use>
+    <use href="#snowflake" transform="translate(45 13)">
+      <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="5.75s" repeatCount="indefinite" values="45 13;45 14;45 15;44 16;44 17;44 18;44 19;44 -3;45 -2;45 -1;45 0;45 1;45 2;45 3;44 4;44 5;44 6;44 7;44 8;45 9;45 10;45 11;45 12;45 13;44 14;44 15;44 16;44 17;45 18;45 19;45 -3;45 -2;45 -1;45 0;45 1;45 2;44 3;44 4;44 5;44 6;44 7;44 8;45 9;45 10;45 11;45 12" />
+    </use>
+  </g>
+</svg>
