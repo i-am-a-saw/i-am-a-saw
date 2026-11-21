@@ -1,1 +1,1 @@
-![Welcome](welcome.png)
+![Welcome](welcome.svg)
